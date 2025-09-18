@@ -19,6 +19,7 @@
 - **Dark-Themed GUI:** A comfortable dark interface with green-on-black text output.
 - **Prompt History:** See previous inputs and AI responses in the scrollable output box.
 - **Easy-to-Use:** Minimal installation requirements and intuitive interface.
+- **Optional** .exe file for Windows.
 
 ---
 
